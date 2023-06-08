@@ -1,0 +1,4 @@
+development:
+  password: your_theme_password
+  theme_id: "your_theme_id"
+  store: your_theme_store.myshopify.com
