@@ -3,11 +3,11 @@ module.exports = {
   content: [
     "./assets/*.liquid",
     "./config/*.json",
-    "./layouts/*.liquid",
+    "./layout/*.liquid",
     "./locales/*.json",
     "./sections/*.liquid",
     "./snippets/*.liquid",
-    "./templates/*.liquid",
+    "./templates/*.json",
     "./templates/customers/*.liquid",
   ],
   theme: {
